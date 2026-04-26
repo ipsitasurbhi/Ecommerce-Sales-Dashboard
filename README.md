@@ -39,10 +39,10 @@ The dataset contains:
 - Sales by Category/Product
 ---
 ## 💡 Business Insights
--📌 The West region generates the highest sales.
--📌 The Consumer segment contributes the majority (~49%) of total revenue.
--📌 Sales show noticeable fluctuations with peaks in certain periods.
--📌 Some regions and segments underperform, indicating opportunities for improvement.
+- 📌 The West region generates the highest sales.
+- 📌 The Consumer segment contributes the majority (~49%) of total revenue.
+- 📌 Sales show noticeable fluctuations with peaks in certain periods.
+- 📌 Some regions and segments underperform, indicating opportunities for improvement.
 ---
 ## 🚀 Features
 - Interactive dashboards.
