@@ -2,7 +2,7 @@
 
 ---
 
-## 🔍 Project Overview
+### 🔍 Project Overview
 
 This project analyzes e-commerce sales data to uncover actionable business insights using Power BI and Tableau. The dashboards help visualize sales performance across regions, customer segments, and time, enabling better decision-making.
 
@@ -56,9 +56,11 @@ The dataset contains:
 ## 📸 Dashboard Preview
 
 PowerBI Dashboard:
+
 <img width="1325" height="742" alt="PowerBI_Dashboard" src="https://github.com/user-attachments/assets/a54d1659-9ad8-4f44-93a8-37889b7f5e04" />
 
 Tableau Dashboard: 
+
 <img width="1199" height="692" alt="Tableau_Dashboard" src="https://github.com/user-attachments/assets/9a9ea454-642e-406c-90bd-8f07504fa23c" />
 
 ---
