@@ -2,7 +2,7 @@
 
 ---
 
-### 🔍 Project Overview
+## 🔍 Project Overview
 
 This project analyzes e-commerce sales data to uncover actionable business insights using Power BI and Tableau. The dashboards help visualize sales performance across regions, customer segments, and time, enabling better decision-making.
 
