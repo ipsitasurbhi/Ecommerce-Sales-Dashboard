@@ -1,0 +1,30 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python (if any notebooks later)
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment files
+.env
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Tableau temp
+*.hyper
+
+# Power BI temp
+*.pbix.lock
